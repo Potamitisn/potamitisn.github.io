@@ -11,5 +11,3 @@ redirect_from:
 
 
 [Download CV here](https://potamitisn.github.io/files/cv.pdf)
-
-<a href="https://potamitisn.github.io/files/cv.pdf" target="_blank">Download CV here</a>
