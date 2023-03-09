@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Hello and welcome to my personal website ! In this space I will be introducing myself to you mostly (but not only :wink:) in a professional capacity. The following content is planned to be released here in the following weeks : 
+Hello and welcome to my personal website ! In this space I will be introducing myself to you mostly (but not only 😉) in a professional capacity. The following content is planned to be released here in the following weeks : 
 - Academic and professional career so far.
 - Presentation of some of the projects that I have worked on.
 - Content regarding particular academic domains that I am interested in. 
