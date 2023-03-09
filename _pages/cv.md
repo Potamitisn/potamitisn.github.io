@@ -10,4 +10,6 @@ redirect_from:
 {% include base_path %}
 
 
-[Download CV here](https://external.ink?to=/potamitisn.github.io/files/cv.pdf)
+[Download CV here](https://potamitisn.github.io/files/cv.pdf)
+
+<a href="https://potamitisn.github.io/files/cv.pdf" target="_blank">Download CV here</a>
